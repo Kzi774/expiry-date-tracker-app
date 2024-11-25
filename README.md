@@ -1,3 +1,3 @@
-# Breadcrumbsexpiry-date-tracker-app
+# expiry-date-tracker-app
 
 This is an app that notifies you of expiration dates.
